@@ -1,2 +1,2 @@
 # fortune-sqlite
-Python script to randomly show funny stuff from an sqlite database.
+Python script to randomnly show funny stuff from an sqlite database.
